@@ -12,6 +12,7 @@ public class TreeMapDemo {
         tree.put("123","123");
         tree.put("789","123");
         tree.put("456","123");
+
         tree.put("456","123");
 
         System.out.println(tree);
